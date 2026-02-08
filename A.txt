@@ -1,4 +1,8 @@
+
 This is a A.txt file
 now first time updated(1)
 
 now updated in vm updated(2)
+
+
+now am working on git A.txt
