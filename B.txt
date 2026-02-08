@@ -1,1 +1,2 @@
 This is B.txt file
+now updated B.txt
